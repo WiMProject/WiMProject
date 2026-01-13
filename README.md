@@ -1,60 +1,81 @@
+<!-- Header with Dynamic Gradient Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:b92b27,100:1565C0&height=250&section=header&text=WiM%20Project.&fontSize=80&fontAlign=50&animation=fadeIn&fontColor=ffffff&desc=Innovating%20at%20the%20Speed%20of%20AI&descSize=20&descAlign=50&descAlignY=65" width="100%"/>
+</div>
 
-# 👋 Hi, I'm WiM Project! 🚀
-### AI Engineer & Frontend Architect | Building the Future of Document Intelligence
+<!-- Badges & Socials -->
+<div align="center">
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Status-Building_OmniConvert_AI-blue?style=for-the-badge&logo=rocket" />
-  <img src="https://img.shields.io/badge/Expertise-Gemini_AI_%26_React-orange?style=for-the-badge&logo=google-gemini" />
-  <img src="https://img.shields.io/badge/Vibe-Futuristic_&_Minimalist-000000?style=for-the-badge" />
-</p>
+  <a href="https://github.com/WiMProject">
+    <img src="https://img.shields.io/github/followers/WiMProject?label=Followers&style=social" alt="GitHub Followers" />
+  </a>
+  <a href="https://twitter.com/WildanMProject">
+    <img src="https://img.shields.io/twitter/follow/WildanMProject?label=Twitter&style=social" alt="Twitter Follow" />
+  </a>
+  
+  <br />
+  
+  <img src="https://img.shields.io/badge/Stack-Fullstack_Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Engine-Gemini_%26_OpenAI-412991?style=for-the-badge&logo=google-gemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vibe-Futuristic_UI-00C7B7?style=for-the-badge&logo=framer&logoColor=white" />
+
+</div>
+
+<br />
+
+<!-- Intro Section -->
+### ⚡ Decoding Reality into Code
+
+Hi there! I'm **WiM Project**. I don't just write code; I craft **digital experiences**. My passion lies in bridging the gap between complex **Artificial Intelligence** logic and beautiful, intuitive **Human Interfaces**.
+
+I specialize in building high-performance web applications that feel *alive*—using modern tech stacks to solve real-world problems with a touch of elegance.
 
 ---
 
-### 🌑 About Me
-Saya adalah seorang pengembang yang berfokus pada persimpangan antara **Kecerdasan Buatan (AI)** dan **User Experience (UX)** tingkat tinggi. Saya percaya bahwa teknologi AI harus terasa "magis" namun tetap sederhana bagi pengguna akhir.
+<!-- Tech & Tools (Organized by Layer) -->
+### 🛠️ The Arsenal
 
-- 🔭 **Sedang Mengerjakan:** [OmniConvert AI](https://github.com/WiMProject/omniconvert-ai) — Revolusi konversi dokumen berbasis Neural Synthesis.
-- 🌱 **Sedang Mendalami:** Multimodal LLMs, Real-time Voice Processing, dan Advanced Prompt Engineering.
-- ⚡ **Fun Fact:** Saya bisa menghabiskan waktu berjam-jam hanya untuk menyesuaikan *border-radius* dan *backdrop-filter* agar terlihat sempurna.
-
----
-
-### 🛠️ Tech Arsenal
-
-| Category | Tools & Technologies |
+| **Layer** | **Technologies** |
 | :--- | :--- |
-| **Languages** | `TypeScript` `JavaScript (ES6+)` `Node.js` `Python` |
-| **Frontend** | `React 19` `Next.js` `Tailwind CSS` `Framer Motion` |
-| **AI / ML** | `Google Gemini API` `OpenAI SDK` `Vector Databases` |
-| **Design / Tools** | `Figma` `Git` `Vite` `Postman` |
+| **🧠 Intelligence** | `Google Gemini API` `OpenAI SDK` `TensorFlow.js` `LangChain` |
+| **🎨 Interface** | `Vue 3 (Composition API)` `React 19` `Tailwind CSS` `Framer Motion` `Shadcn UI` |
+| **⚙️ Core Engine** | `Laravel (Lumen)` `Node.js` `TypeScript` `Go` |
+| **☁️ Infrastructure** | `Docker` `Nginx` `MySQL` `Redis` `Git` |
 
 ---
 
-### 🚀 Featured Project: OmniConvert AI
-> **"The only document converter you'll ever need."**
-> Aplikasi konverter dokumen universal bertenaga Gemini AI dengan akurasi OCR tingkat tinggi dan kemampuan sintesis format otomatis (PDF, DOCX, JSON, Markdown).
+<!-- Projects Showcase (Grid Layout Simulation) -->
+### 🚀 Signature Projects
 
-[**Lihat Repositori →**](https://github.com/WiMProject/omniconvert-ai)
-
----
-
-### 📊 GitHub Statistics
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WiMProject&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WiMProject&layout=compact&theme=tokyonight&langs_count=6" />
-</p>
+| **Project** | **Description** | **Tech Stack** |
+| :--- | :--- | :--- |
+| [**🔮 OmniConvert AI**](https://github.com/WiMProject/omniconvert-ai) | **Neural Document Synthesis.** Revolusi konversi dokumen (PDF/Img -> JSON/MD) dengan akurasi AI tingkat tinggi. | `Next.js` `Gemini` `Python` |
+| [**🎵 Batasanaya Engine**](https://github.com/WiMProject/backend-batasanaya) | **Multimedia Content Hub.** Platform manajemen aset digital, streaming video HLS, dan audio processing. | `Lumen` `Vue 3` `FFmpeg` |
+| [**🎮 GameHub Admin**](https://github.com/WiMProject/game-hub) | **Interactive Dashboard.** Sistem manajemen user gamifikasi dengan visualisasi data real-time & glassmorphism UI. | `Vue 3` `Chart.js` `Docker` |
 
 ---
 
-### 📫 Connect with Me
-<p align="left">
-<a href="https://linkedin.com/in/yourusername" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/yourusername" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+<!-- Github Stats (Dark Mode Styled) -->
+### 📊 Performance Metrics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=WiMProject&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=c9d1d9&icon_color=79c0ff" height="150" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WiMProject&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=c9d1d9" height="150" alt="Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=WiMProject&theme=gitdimmed&no-frame=true&margin-w=15&margin-h=15" alt="Trophies" />
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%"/>
-</p>
+<!-- Footer with Dynamic Quote -->
+<div align="center">
+  <br />
+  <p><i>"Complexity is the enemy of execution. Simplicity is the soul of efficiency."</i></p>
+  <p>
+    <a href="mailto:your.email@example.com"><b>Start a Collaboration</b></a> • 
+    <a href="https://linkedin.com/in/yourprofile"><b>LinkedIn</b></a>
+  </p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+</div>

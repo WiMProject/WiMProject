@@ -250,8 +250,25 @@ flowchart LR
 
   <br/><br/>
 
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=WiMProject&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8&count_private=true" alt="GitHub stats"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WiMProject&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8" alt="Top languages"/>
+  ### Core Stack
+
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+
+  <br/><br/>
+
+  <img src="https://img.shields.io/github/followers/WiMProject?style=flat-square&logo=github&label=Followers&color=1d4ed8" alt="Followers">
+  <img src="https://img.shields.io/github/last-commit/WiMProject/backend-batasanaya?style=flat-square&logo=git&logoColor=white&label=Last%20commit%20(Batasanaya)&color=0e7490" alt="Last commit">
+  <img src="https://img.shields.io/github/stars/WiMProject/backend-batasanaya?style=flat-square&logo=github&label=Batasanaya%20stars&color=b45309" alt="Stars">
+  <img src="https://img.shields.io/github/languages/top/WiMProject/backend-batasanaya?style=flat-square&label=Batasanaya%20top%20language&color=0f766e" alt="Top language">
 
   <br/><br/>
 

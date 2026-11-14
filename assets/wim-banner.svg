@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+  <title id="title">WiM Project — Wildan Miladji</title>
+  <desc id="desc">A dark navy and cyan developer banner with abstract circuit-inspired details.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07111f"/>
+      <stop offset=".55" stop-color="#102b42"/>
+      <stop offset="1" stop-color="#075985"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#22d3ee" stop-opacity=".9"/>
+      <stop offset="1" stop-color="#60a5fa" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#93c5fd" stroke-opacity=".09" stroke-width="1"/>
+    </pattern>
+    <filter id="blur"><feGaussianBlur stdDeviation="28"/></filter>
+  </defs>
+  <rect width="1200" height="330" rx="22" fill="url(#bg)"/>
+  <rect width="1200" height="330" rx="22" fill="url(#grid)"/>
+  <circle cx="1030" cy="70" r="150" fill="#0ea5e9" opacity=".16" filter="url(#blur)"/>
+  <circle cx="170" cy="300" r="130" fill="#14b8a6" opacity=".13" filter="url(#blur)"/>
+  <g fill="none" stroke="#67e8f9" stroke-opacity=".34" stroke-width="2">
+    <path d="M790 0v55h80v45h100"/>
+    <path d="M930 330v-62h70v-46h200"/>
+    <path d="M0 95h95v45h65"/>
+    <path d="M0 250h120v-35h55"/>
+    <path d="M1080 0v35h-48v32h-52"/>
+  </g>
+  <g fill="#67e8f9" opacity=".8">
+    <circle cx="970" cy="100" r="4"/><circle cx="1000" cy="222" r="4"/>
+    <circle cx="160" cy="140" r="4"/><circle cx="175" cy="215" r="4"/>
+    <circle cx="980" cy="67" r="3"/><circle cx="120" cy="250" r="3"/>
+  </g>
+  <path d="M160 245H1040" stroke="url(#glow)" stroke-width="2"/>
+  <text x="600" y="126" text-anchor="middle" fill="#e0f2fe" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" letter-spacing="7">W I M   P R O J E C T</text>
+  <text x="600" y="190" text-anchor="middle" fill="#ffffff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="57" font-weight="750" letter-spacing="1">Wildan Miladji</text>
+  <text x="600" y="226" text-anchor="middle" fill="#a5f3fc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="19" letter-spacing="2">FULL-STACK DEVELOPER  •  AI ENGINEER</text>
+  <text x="600" y="286" text-anchor="middle" fill="#bae6fd" opacity=".78" font-family="JetBrains Mono,Consolas,monospace" font-size="13">BUILDING USEFUL SOFTWARE, ONE ITERATION AT A TIME</text>
+</svg>

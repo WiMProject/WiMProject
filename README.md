@@ -1,81 +1,207 @@
-<!-- Header with Dynamic Gradient Banner -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:b92b27,100:1565C0&height=250&section=header&text=WiM%20Project.&fontSize=80&fontAlign=50&animation=fadeIn&fontColor=ffffff&desc=Innovating%20at%20the%20Speed%20of%20AI&descSize=20&descAlign=50&descAlignY=65" width="100%"/>
-</div>
-
-<!-- Badges & Socials -->
 <div align="center">
 
-  <a href="https://github.com/WiMProject">
-    <img src="https://img.shields.io/github/followers/WiMProject?label=Followers&style=social" alt="GitHub Followers" />
-  </a>
-  <a href="https://twitter.com/WildanMProject">
-    <img src="https://img.shields.io/twitter/follow/WildanMProject?label=Twitter&style=social" alt="Twitter Follow" />
-  </a>
-  
-  <br />
-  
-  <img src="https://img.shields.io/badge/Stack-Fullstack_Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI_Engine-Gemini_%26_OpenAI-412991?style=for-the-badge&logo=google-gemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vibe-Futuristic_UI-00C7B7?style=for-the-badge&logo=framer&logoColor=white" />
+<img src="./assets/wim-banner.svg" alt="WiM Project — Wildan Miladji" width="100%">
 
-</div>
+<a href="https://github.com/WiMProject">
+  <img src="https://komarev.com/ghpvc/?username=WiMProject&style=for-the-badge&color=0e7490&label=PROFILE+VIEWS" alt="Profile views">
+</a>
+<a href="https://github.com/WiMProject?tab=followers">
+  <img src="https://img.shields.io/github/followers/WiMProject?style=for-the-badge&logo=github&label=FOLLOWERS&color=1d4ed8" alt="GitHub followers">
+</a>
+<a href="https://github.com/WiMProject?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore-Repositories-0f766e?style=for-the-badge&logo=github" alt="Explore repositories">
+</a>
 
-<br />
+<br>
 
-<!-- Intro Section -->
-### ⚡ Decoding Reality into Code
+<a href="https://github.com/WiMProject">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=Full-Stack+Developer;Backend+%26+API+Engineer;AI+%26+Computer+Vision+Enthusiast;Turning+ideas+into+useful+software." alt="Typing introduction">
+</a>
 
-Hi there! I'm **WiM Project**. I don't just write code; I craft **digital experiences**. My passion lies in bridging the gap between complex **Artificial Intelligence** logic and beautiful, intuitive **Human Interfaces**.
+<p>
+  <a href="https://wildanm.netlify.app"><img src="https://img.shields.io/badge/PORTFOLIO-Visit-0f172a?style=for-the-badge&logo=googlechrome&logoColor=38bdf8" alt="Portfolio"></a>
+  <a href="mailto:wildanmiladji53@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Get%20in%20touch-0f172a?style=for-the-badge&logo=gmail&logoColor=ea4335" alt="Email"></a>
+  <a href="https://github.com/WiMProject"><img src="https://img.shields.io/badge/GITHUB-WiMProject-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
 
-I specialize in building high-performance web applications that feel *alive*—using modern tech stacks to solve real-world problems with a touch of elegance.
-
----
-
-<!-- Tech & Tools (Organized by Layer) -->
-### 🛠️ The Arsenal
-
-| **Layer** | **Technologies** |
-| :--- | :--- |
-| **🧠 Intelligence** | `Google Gemini API` `OpenAI SDK` `TensorFlow.js` `LangChain` |
-| **🎨 Interface** | `Vue 3 (Composition API)` `React 19` `Tailwind CSS` `Framer Motion` `Shadcn UI` |
-| **⚙️ Core Engine** | `Laravel (Lumen)` `Node.js` `TypeScript` `Go` |
-| **☁️ Infrastructure** | `Docker` `Nginx` `MySQL` `Redis` `Git` |
-
----
-
-<!-- Projects Showcase (Grid Layout Simulation) -->
-### 🚀 Signature Projects
-
-| **Project** | **Description** | **Tech Stack** |
-| :--- | :--- | :--- |
-| [**🔮 OmniConvert AI**](https://github.com/WiMProject/omniconvert-ai) | **Neural Document Synthesis.** Revolusi konversi dokumen (PDF/Img -> JSON/MD) dengan akurasi AI tingkat tinggi. | `Next.js` `Gemini` `Python` |
-| [**🎵 Batasanaya Engine**](https://github.com/WiMProject/backend-batasanaya) | **Multimedia Content Hub.** Platform manajemen aset digital, streaming video HLS, dan audio processing. | `Lumen` `Vue 3` `FFmpeg` |
-| [**🎮 GameHub Admin**](https://github.com/WiMProject/game-hub) | **Interactive Dashboard.** Sistem manajemen user gamifikasi dengan visualisasi data real-time & glassmorphism UI. | `Vue 3` `Chart.js` `Docker` |
-
----
-
-<!-- Github Stats (Dark Mode Styled) -->
-### 📊 Performance Metrics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WiMProject&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=c9d1d9&icon_color=79c0ff" height="150" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WiMProject&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=c9d1d9" height="150" alt="Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=WiMProject&theme=gitdimmed&no-frame=true&margin-w=15&margin-h=15" alt="Trophies" />
 </div>
 
 ---
 
-<!-- Footer with Dynamic Quote -->
+## `01` — About me
+
+I'm **Wildan Miladji**, an Informatics Engineering graduate based in **Bandung, Indonesia**. I build web applications, backend services, and AI-powered prototypes — with a focus on practical engineering, maintainable code, and thoughtful user experiences.
+
+My work spans REST API development, database design, full-stack application development, and machine learning for computer vision. I also bring hands-on experience in technical operations, documentation, and data administration.
+
+- **Primary focus:** Full-Stack Development & Backend Engineering
+- **Exploring:** AI, Machine Learning & Computer Vision
+- **Engineering interests:** REST APIs, system integration, data modeling
+- **Education:** B.Sc. in Informatics Engineering — Universitas Sangga Buana YPKP
+- **Location:** Bandung, Indonesia
+
+---
+
+## `02` — Technology toolkit
+
 <div align="center">
-  <br />
-  <p><i>"Complexity is the enemy of execution. Simplicity is the soul of efficiency."</i></p>
-  <p>
-    <a href="mailto:your.email@example.com"><b>Start a Collaboration</b></a> • 
-    <a href="https://linkedin.com/in/yourprofile"><b>LinkedIn</b></a>
-  </p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+
+| Area | Tools & Technologies |
+|:--|:--|
+| **Languages** | Python · PHP · JavaScript · TypeScript · SQL |
+| **Backend** | Laravel · Lumen · Express.js · FastAPI · Flask |
+| **Frontend** | React · Vue.js · Astro · HTML5 · CSS3 · Tailwind CSS |
+| **AI & Computer Vision** | PyTorch · TensorFlow/Keras · OpenCV · U-Net · Vision Transformer |
+| **Databases** | PostgreSQL · MySQL · SQLite · MongoDB |
+| **DevOps & Tools** | Docker · Docker Compose · Nginx · Git · GitHub · Linux |
+| **Productivity** | Microsoft Excel · Technical Documentation |
+
+</div>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,php,js,ts,react,vue,astro,laravel,nodejs,fastapi,flask,pytorch,tensorflow,opencv,mysql,postgres,mongodb,sqlite,docker,nginx,git,github,linux&perline=8" alt="Technology icons">
+</div>
+
+---
+
+## `03` — Selected work
+
+A selection of projects across AI, computer vision, backend systems, and web applications.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🫁 Lung AI</h3>
+      <p><b>AI · Medical Computer Vision</b></p>
+      <p>A clinical decision-support research system for classifying lung diseases from chest X-ray images. The pipeline combines CLAHE enhancement, U-Net lung segmentation, Vision Transformer classification, and Grad-CAM explainability.</p>
+      <sub>Python · PyTorch · U-Net · ViT · OpenCV · Flask · React</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🩻 ALus</h3>
+      <p><b>AI · Image Classification</b></p>
+      <p>A web application that classifies chest X-ray images into COVID-19, Pneumonia, and Normal categories using deep learning models.</p>
+      <sub>Python · Streamlit · TensorFlow/Keras · CNN · OpenCV</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎮 Batasanaya</h3>
+      <p><b>Backend · Multimedia Platform</b></p>
+      <p>An API-driven multimedia and educational game content platform with an administrative dashboard, asset management, user administration, and data synchronization.</p>
+      <sub>PHP · Lumen · Vue.js · REST API · JWT · SQL</sub>
+      <p><a href="https://github.com/WiMProject/backend-batasanaya">Repository ↗</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📚 GoPub</h3>
+      <p><b>Full-Stack · Academic Publishing</b></p>
+      <p>A publishing management platform with role-based access for administrators, publishers, and users; includes publication workflows, document uploads, autocomplete search, and analytics.</p>
+      <sub>PHP · Laravel · Blade · JavaScript · SQL</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚖️ SPK MAUT</h3>
+      <p><b>Decision Support System</b></p>
+      <p>A web-based decision-support application that scores and ranks alternatives using the Multi-Attribute Utility Theory method and weighted criteria.</p>
+      <sub>React.js · JavaScript · FastAPI · Python · JWT · SQL</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎓 Study Tracer</h3>
+      <p><b>Information System</b></p>
+      <p>An alumni tracking platform for graduate data, tracer-study surveys, and career information management.</p>
+      <sub>PHP · MySQL · JavaScript · HTML · CSS</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌱 EcoTracker</h3>
+      <p><b>Hybrid Mobile Application</b></p>
+      <p>A mobile application concept focused on environmental awareness and activity tracking.</p>
+      <sub>Apache Cordova · PhoneGap · HTML · CSS · JavaScript</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💌 LoveStory</h3>
+      <p><b>Frontend · Interactive Web</b></p>
+      <p>A responsive digital storytelling experience centered on personalized content and interactive web design.</p>
+      <sub>HTML · CSS · JavaScript</sub>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/WiMProject?tab=repositories"><b>Browse all public repositories →</b></a>
+</p>
+
+---
+
+## `04` — Experience
+
+**Full-Stack Developer & Documenter · Maqdis Academy**  
+*January 2026 – May 2026*
+
+- Developed and optimized backend services and RESTful APIs for an educational platform.
+- Designed database structures and implemented API endpoints.
+- Prepared user guides and technical documentation for onboarding and administration.
+
+**Full-Stack Developer · Maqdis Academy**  
+*October 2025 – January 2026*
+
+- Developed backend services for the BATASANAYA educational game.
+- Built an administrative dashboard for asset and user management.
+- Managed database schemas and integrated API endpoints for data synchronization.
+
+---
+
+## `05` — Certifications & recognition
+
+- **Microsoft Office Specialist: Excel Associate (Excel 365)** — 2026
+- **Oracle Certified Associate / Foundations Associate: Database** — 2024
+- **Laravel Full-Stack Web Development** — 2023
+- **Ethical Hacking from Zero to Hero** — 2025
+- **AI Automation and Computer Vision** — 2026
+- **Excellence Award & Most Active Mentee** — Stechoq Robotika Indonesia
+
+### Research & conference
+
+**Conference Presenter / Author — TSSA Conference**
+
+Research paper: *Lung Disease Classification Using Explainable Artificial Intelligence (XAI) and Vision Transformer (ViT) Integration.*
+
+Research topics include U-Net segmentation, Vision Transformer classification, and Grad-CAM explainability.
+
+---
+
+## `06` — GitHub insights
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=WiMProject&show_icons=true&rank_icon=github&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=cbd5e1" alt="GitHub statistics">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WiMProject&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=cbd5e1" alt="Most used languages">
+</div>
+
+<div align="center">
+  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=WiMProject&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak">
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=WiMProject&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=6" width="95%" alt="GitHub trophies">
+</div>
+
+---
+
+## `07` — Let's connect
+
+I'm open to connecting with developers, collaborating on meaningful projects, and exploring opportunities in **software engineering, backend development, and AI**.
+
+<div align="center">
+  <a href="mailto:wildanmiladji53@gmail.com"><img src="https://img.shields.io/badge/Email-wildanmiladji53%40gmail.com-0f172a?style=for-the-badge&logo=gmail&logoColor=EA4335"></a>
+  <a href="https://wildanm.netlify.app"><img src="https://img.shields.io/badge/Portfolio-wildanm.netlify.app-0f172a?style=for-the-badge&logo=googlechrome&logoColor=38bdf8"></a>
+  <a href="https://github.com/WiMProject"><img src="https://img.shields.io/badge/GitHub-WiMProject-0f172a?style=for-the-badge&logo=github&logoColor=white"></a>
+</div>
+
+<br>
+
+<div align="center">
+  <i>"Build with purpose. Engineer with curiosity. Improve with every iteration."</i>
+  <br><br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:164e63,100:0e7490&height=110&section=footer" width="100%" alt="Footer banner">
 </div>

@@ -171,19 +171,32 @@ Research topics include U-Net segmentation, Vision Transformer classification, a
 
 ---
 
-## `06` — GitHub insights
+## `06` — GitHub Insights
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=WiMProject&show_icons=true&rank_icon=github&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=cbd5e1" alt="GitHub statistics">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WiMProject&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=cbd5e1" alt="Most used languages">
-</div>
 
-<div align="center">
-  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=WiMProject&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak">
-</div>
+  <a href="https://github.com/WiMProject">
+    <img src="https://img.shields.io/badge/GitHub-WiMProject-161b22?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <img src="https://img.shields.io/badge/Repositories-Public-0e7490?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/Focus-Consistent%20Learning-2563eb?style=for-the-badge&logo=githubactions"/>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=WiMProject&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=6" width="95%" alt="GitHub trophies">
+  <br/><br/>
+
+  ### Contribution Streak
+
+  <img width="85%"
+    src="https://streak-stats.demolab.com/?user=WiMProject&theme=dark&hide_border=true&background=0D1117&stroke=30363D&ring=38BDF8&fire=F59E0B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=94A3B8"
+    alt="GitHub Contribution Streak"/>
+
+  <br/><br/>
+
+  ### Explore My GitHub
+
+  <a href="https://github.com/WiMProject?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20All%20Projects-Explore%20Repositories-0e7490?style=for-the-badge&logo=github"/>
+  </a>
+
 </div>
 
 ---

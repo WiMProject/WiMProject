@@ -32,13 +32,13 @@
 
 ---
 
-## `01` — About me
+## `01`  About me
 
 <table>
   <tr>
     <td width="60%" valign="top">
 
-I'm **Wildan Miladji**, an Informatics Engineering graduate based in **Bandung, Indonesia**. I build web applications, backend services, and AI-powered prototypes — with a focus on practical engineering, maintainable code, and thoughtful user experiences.
+I'm **Wildan Miladji**, an Informatics Engineering graduate based in **Bandung, Indonesia**. I build web applications, backend services, and AI-powered prototypes with a focus on practical engineering, maintainable code, and thoughtful user experiences.
 
 My work spans REST API development, database design, full-stack application development, and machine learning for computer vision. I also bring hands-on experience in technical operations, documentation, and data administration.
 
@@ -69,7 +69,7 @@ status: Open to opportunities ✅
 
 ---
 
-## `02` — Technology toolkit
+## `02`  Technology toolkit
 
 <div align="center">
 
@@ -91,7 +91,7 @@ status: Open to opportunities ✅
 
 ---
 
-## `03` — Selected work
+## `03`  Selected work
 
 A selection of projects across AI, computer vision, backend systems, and web applications.
 
@@ -179,7 +179,7 @@ flowchart LR
 
 ---
 
-## `04` — Experience
+## `04`  Experience
 
 ```text
  2025 ─────────────────────────●───────────────────────● 2026
@@ -213,7 +213,7 @@ flowchart LR
 
 ---
 
-## `05` — Certifications & recognition
+## `05`  Certifications & recognition
 
 <div align="center">
 
@@ -224,7 +224,7 @@ flowchart LR
 | 🏅 2025 | **Ethical Hacking from Zero to Hero** |
 | 🏅 2024 | **Oracle Certified Associate / Foundations Associate: Database** |
 | 🏅 2023 | **Laravel Full-Stack Web Development** |
-| 🏆 — | **Excellence Award & Most Active Mentee** — Stechoq Robotika Indonesia |
+| 🏆 — | **Excellence Award & Most Active Mentee**  Stechoq Robotika Indonesia |
 
 </div>
 
@@ -238,7 +238,7 @@ flowchart LR
 
 ---
 
-## `06` — GitHub Insights
+## `06`  GitHub Insights
 
 <div align="center">
 
@@ -305,7 +305,7 @@ flowchart LR
 
 ---
 
-## `07` — Let's connect
+## `07`  Let's connect
 
 I'm open to connecting with developers, collaborating on meaningful projects, and exploring opportunities in **software engineering, backend development, and AI**.
 

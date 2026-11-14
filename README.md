@@ -266,16 +266,17 @@ flowchart LR
   ### Contribution Activity
 
   <img width="95%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=WiMProject&bg_color=0D1117&color=38BDF8&line=0E7490&point=FFFFFF&area=true&area_color=0E7490&hide_border=true"
-    alt="Contribution activity graph"/>
+    src="https://ghchart.rshah.org/0e7490/WiMProject"
+    alt="Contribution calendar"/>
 
   <br/><br/>
 
-  ### Trophies
+  ### Highlights
 
-  <img width="95%"
-    src="https://github-profile-trophy.vercel.app/?username=WiMProject&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1&column=7"
-    alt="GitHub trophies"/>
+  <img src="https://img.shields.io/badge/Research-TSSA%20Conference-0e7490?style=for-the-badge&logo=readthedocs&logoColor=white" alt="TSSA Conference">
+  <img src="https://img.shields.io/badge/Award-Stechoq%20Excellence-b45309?style=for-the-badge&logo=starship&logoColor=white" alt="Stechoq Excellence Award">
+  <img src="https://img.shields.io/badge/Certified-MOS%20Excel%20365-166534?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="MOS Excel">
+  <img src="https://img.shields.io/badge/Certified-Oracle%20Database-b91c1c?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Database">
 
   <br/><br/>
 
